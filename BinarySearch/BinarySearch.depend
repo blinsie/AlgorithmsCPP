@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542798706 source:c:\users\user_asus\desktop\Алгоритмизация и программирование\несколько лаб\сортировка\select\binarysearch\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<ctime>
+

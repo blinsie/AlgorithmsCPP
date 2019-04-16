@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1540121954 source:c:\users\user_asus\desktop\Алгоритмизация и программирование\несколько лаб\сортировка\select\class_stack\main.cpp
+	<iostream>
+	"Stack.h"
+	<stdlib.h>
+
+1540133116 c:\users\user_asus\desktop\Алгоритмизация и программирование\несколько лаб\сортировка\select\class_stack\include\stack.h
+	<iostream>
+	<cstddef>
+
+1540133116 source:c:\users\user_asus\desktop\Алгоритмизация и программирование\несколько лаб\сортировка\select\class_stack\src\stack.cpp
+	"Stack.h"
+	<iostream>
+	<stdlib.h>
+

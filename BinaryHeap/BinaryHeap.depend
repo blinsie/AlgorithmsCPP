@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1542795075 source:c:\users\user_asus\desktop\Алгоритмизация и программирование\несколько лаб\сортировка\select\binaryheap\main.cpp
+	<iostream>
+	"Heap.h"
+	<stdlib.h>
+
+1542802328 c:\users\user_asus\desktop\Алгоритмизация и программирование\несколько лаб\сортировка\select\binaryheap\include\heap.h
+
+1542797413 source:c:\users\user_asus\desktop\Алгоритмизация и программирование\несколько лаб\сортировка\select\binaryheap\src\heap.cpp
+	"Heap.h"
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544033561 source:c:\users\user_asus\desktop\Алгоритмизация и программирование\несколько лаб\сортировка\select\prim\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+

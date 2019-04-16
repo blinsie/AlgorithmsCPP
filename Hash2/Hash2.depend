@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542801928 source:c:\users\user_asus\desktop\Алгоритмизация и программирование\несколько лаб\сортировка\select\hash2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+
